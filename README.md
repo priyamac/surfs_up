@@ -33,10 +33,10 @@ Looking at the statistics above, it can be determined;
 ---
 ## Summary:
 
-In summary, though December sees similar maximum temperatures to June, and their average is only 4 degrees lower, the standard deviation implies there is slightly more flucutation in December, which may not be condusive to ice cream selling. 
+In summary, though December sees similar maximum temperatures to June, and their average is only 4 degrees lower, the standard deviation implies there is slightly more flucutation in December, which may not be condusive to surfing and ice cream selling. 
 
 Two additional queries that could be performed to gain more insight into the weather data is; 
   1. Analysis into precipitation levels. 
-    - Though the temperatures may be similar on average, more rain in a certain month could contribute to fewer ice cream sales. 
+    - Though the temperatures may be similar on average, more rain in a certain month could contribute to fewer surfers and ice cream sales. 
   2. Dig further into local temperature statistics.
     - This analysis was done on Oahu as a whole. It could be more beneficial to dig into local weather, to get a better analysis at certain locations. 
